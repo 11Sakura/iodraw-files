@@ -34,6 +34,9 @@
         <mxCell id="fi39QZGwEPKYeX39N-O1-6" value="格式转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="170" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fi39QZGwEPKYeX39N-O1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fi39QZGwEPKYeX39N-O1-9" target="fi39QZGwEPKYeX39N-O1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fi39QZGwEPKYeX39N-O1-9" value="批复.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="80" height="30" as="geometry" />
         </mxCell>
@@ -46,8 +49,8 @@
         <mxCell id="fi39QZGwEPKYeX39N-O1-13" value="可研.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fi39QZGwEPKYeX39N-O1-17" value="可研.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="80" height="30" as="geometry" />
+        <mxCell id="fi39QZGwEPKYeX39N-O1-17" value="规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
