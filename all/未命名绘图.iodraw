@@ -16,8 +16,14 @@
         <mxCell id="fi39QZGwEPKYeX39N-O1-2" value="解压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fi39QZGwEPKYeX39N-O1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fi39QZGwEPKYeX39N-O1-4" target="fi39QZGwEPKYeX39N-O1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fi39QZGwEPKYeX39N-O1-4" value="可研/批复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fi39QZGwEPKYeX39N-O1-6" value="可研/批复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
